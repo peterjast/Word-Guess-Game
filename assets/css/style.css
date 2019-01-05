@@ -1,0 +1,72 @@
+body {
+    background-image: url("../images/background.jpg");
+    width: 100%
+}
+
+h1 {
+    font-size: 48px;
+    border: solid 5px rgb(75, 11, 11);
+    background: rgb(185, 183, 183);
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right:10%;
+    padding: 15px;
+    font-family: 'Charm', cursive;
+}
+
+h2 {
+    font-family: 'Charm', cursive;
+    font-size: 24px;
+    padding-top: 10px;
+}
+
+
+img {
+    margin: 10px;
+}
+
+
+.sidebar {
+    padding: 5px;
+    position: relative;
+    border-top: solid rgb(75, 11, 11) 2px;
+    border-bottom: solid rgb(75, 11, 11) 2px;
+    margin-bottom: 5px;
+    font-family: 'Charm', cursive;
+    font-size: 16px;
+}
+
+span {
+    border: solid rgb(75, 11, 11) 2px;
+    padding-left: 3px;
+    padding-right:3px;
+    background-color: whitesmoke; 
+    font-size: 16px;
+}
+
+.background {
+    background-image: url("../images/bar\ 3.jpg");
+    border: solid 5px rgb(75, 11, 11);
+}
+
+.container {
+    background-color: rgb(185, 183, 183);
+    margin-top: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5px;
+    text-align: center;
+    border: solid 3px rgb(75, 11, 11);
+}
+
+#currentword {
+    font-size: 30px;
+    font-family: 'Charm', cursive;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#scoreboard {
+    padding: 20px;
+}
